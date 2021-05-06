@@ -1,6 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
-<img src="/assets/banner.png" alt="Banner introducing Ankesh Paramanik">
+## I am 👇🏼
+
+<img src="/assets/banner.png" alt="Banner introducing Ankesh Paramanik" />
+
+<br>
+
+![Ankesh's github stats](https://github-readme-stats.vercel.app/api?username=ankeshp03&count_private=true&show_icons=true&theme=default)
 
 <!--
 **ankeshp03/ankeshp03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
