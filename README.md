@@ -62,6 +62,7 @@ This motivated me to start my journey as Web Developer (Mostly Front-end).
 ### I would love to connect with you. If you also do, you can reach me on:
   [<img align="left" alt="Ankesh Paramanik | LinkedIn" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
   [<img align="left" alt="Ankesh Paramanik | Twitter" title="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+  [<img align="left" alt="Ankesh Paramanik | Codepen" title="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
 
 <br />
 <br />
@@ -75,6 +76,7 @@ This motivated me to start my journey as Web Developer (Mostly Front-end).
 
 [twitter]: https://twitter.com/ankeshparamanik
 [linkedin]: https://www.linkedin.com/in/ankesh-paramanik
+[codepen]: https://codepen.io/ankeshp03
 
 <!--
 ![Ankesh's github stats](https://github-readme-stats.vercel.app/api?username=ankeshp03&count_private=true&show_icons=true&theme=default)
